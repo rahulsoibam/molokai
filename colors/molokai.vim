@@ -28,7 +28,7 @@ endif
 
 
 " vertical split lines should look like a line instead of a dashed one
-set fillchars+=vert:\│
+set fillchars+=vert:\|
 
 
 hi Boolean         guifg=#AE81FF
